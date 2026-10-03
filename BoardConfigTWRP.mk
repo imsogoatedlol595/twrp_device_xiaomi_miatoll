@@ -50,6 +50,8 @@ TW_CUSTOM_CPU_POS := 270
 TW_EXTRA_LANGUAGES := true
 TW_STATUS_ICONS_ALIGN := center
 TW_THEME := portrait_hdpi
+TW_CUSTOM_THEME := device/xiaomi/miatoll/recovery/twres
+TW_DEVICE_VERSION := mizoo_ximifone_builds
 
 # USB
 TW_EXCLUDE_DEFAULT_USB_INIT := true
